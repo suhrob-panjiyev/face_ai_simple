@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large / unnecessary
+*.zip
+*.log
+*.sqlite
+attendance.sqlite
+
+# Agar keyin katta modellar bo‘lsa
+*.onnx
+*.pt
+*.pth
